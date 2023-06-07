@@ -4,6 +4,8 @@
 /*image*/
 .css-1v0mbdj > img{
     border-radius: 50%;
+    width: 90%;
+    height: auto;
 }
 
 .stApp{
